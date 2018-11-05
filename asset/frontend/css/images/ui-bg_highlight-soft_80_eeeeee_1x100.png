@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+   <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+Bảo tàng lịch sử Quốc gia
+</title>
+
+    <meta name="description" content="
+Là website chính thức của bảo tàng lịch sử quốc gia
+"/>
+
+	<meta name="keywords" content="
+bảo tàng, lịch sử, bảo tàng lịch sử
+"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+		
+    <link rel="stylesheet" type="text/css" href="http://baotanglichsu.vn/asset/frontend/css/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="http://baotanglichsu.vn/asset/frontend/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="http://baotanglichsu.vn/asset/frontend/css/owl.carousel.css">
+    <link href="http://baotanglichsu.vn/asset/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="http://baotanglichsu.vn/asset/frontend/css/animate.css">
+    <link href="http://baotanglichsu.vn/asset/frontend/css/pubweb.css" rel="stylesheet">
+
+		
+
+		<script src="http://baotanglichsu.vn/asset/frontend/js/jquery-1.11.3.min.js"></script>
+
+		
+
+		<link rel="shortcut icon" type="image/x-icon" href="favico.png">
+
+    </head>
+
+    <body class="push-menu" oncontextmenu="return false;">
+
+    	
+
+    	<div class="notification">Bạn chưa chọn câu trả lời</div>
+
+    	<div class="notification1">Biểu quyết thành công</div>
+
+    	<div class="notification2">Biểu quyết thất bại</div>
+
+			<div class="menu-fix">
+	<div class="container-fluid time-header">
+		<div class="container">
+			<div class="row ">
+    <div class="col-md-6 col-xs-6">
+      <div class="time-day">
+
+        <p>Thứ bảy, 20/10/2018</p>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="flag">
+        <ul>
+                                                  <li><a onclick="change_lang('http://baotanglichsu.vn/home/cookie/2')"><img src="http://baotanglichsu.vn/asset/frontend/img/en.png" alt="img"/></a></li>
+                                                            <li><a onclick="change_lang('http://baotanglichsu.vn/home/cookie/3')"><img src="http://baotanglichsu.vn/asset/frontend/img/fr.png" alt="img"/></a></li>
+                                                                    </ul>
+      </div>
+    </div>
+  </div>
+		</div>
+	</div>
+  <div class="container-fluid menu-head">
+  <div class="container ">
+  
+  <div class="row ">
+    <div class="col-md-6">
+      <div class="logo-desk">
+        <div class="img-logo">
+          <a href="http://baotanglichsu.vn/"><img src="http://baotanglichsu.vn/asset/upload/logo-new1.png" alt="logo"></a>
+        </div>
+        <div class="text-logo">
+          <h2>bảo t&agrave;ng lịch sử quốc gia</h2>
+<h2>vietnam national museum of history</h2>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="search">
+        <form method="post" action="http://baotanglichsu.vn/search" id="search-form">
+          <input name="_token" type="hidden" value="bdxXU9Aqi7VRfxi8bv2Z2TcyLt4NaPCMFR4DmfP4">
+          <input type="text" name="keyword" placeholder="Từ khóa">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+</div>
+</div>
+<div class="container-fluid menu-third">
+  <div class="container">
+    <div class="row">
+    <div class="col-md-12">
+      <div class="menu-content">
+        <ul>
+                                                                        <li>
+               <a  href="http://baotanglichsu.vn/" >Trang chủ</a>
+                           </li>    
+                                                                                                                                                                                                                                                                                                                                                                         <li>
+               <a  href="#" class="first-a" >Giới thiệu</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                    <li><a href="http://baotanglichsu.vn/loi-gioi-thieu-4pg.html" class="first-b">Lời giới thiệu</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/hinh-thanh-va-phat-trien-3pg.html" class="first-b">Hình thành phát triển</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/co-cau-to-chuc-2pg.html" class="first-b">Bộ máy tổ chức</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/so-do-to-chuc-5pg.html" class="first-b">Sơ đồ tổ chức</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/hoat-dong-chuyen-mon-7pg.html" class="first-b">Hoạt động chuyên môn, nghiệp vụ</a>
+                            <ul class="sub-menu1">
+                                                                                                                                                          <li><a href="">Công tác trưng bày</a>                               <ul class="sub-menu2">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <li><a href="http://baotanglichsu.vn/trung-bay-thuong-xuyen-33pg.html">Trưng bày thường xuyên</a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                       <li><a href="http://baotanglichsu.vn/trung-bay-chuyen-de-32pg.html">Trưng bày chuyên đề</a></li>                                                                                                                                                                                                                                                                                                                                                                                                 <li><a href="http://baotanglichsu.vn/trung-bay-ngoai-troi-34pg.html">Trưng bày ngoài trời</a></li>                                                                                                                                                                                                                                                                                        <li><a href="http://baotanglichsu.vn/trung-bay-luu-dong-35pg.html">Trưng bày lưu động</a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </ul>                             </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="http://baotanglichsu.vn/cong-tac-nghien-cuu-khoa-hoc-va-xuat-ban-21pg.html">Công tác nghiên cứu khoa học và xuất bản</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                <li><a href="http://baotanglichsu.vn/cong-tac-dao-tao-22pg.html">Công tác đào tạo</a>                              </li>
+                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/cong-tac-nghien-cuu-suu-tam-23pg.html">Công tác nghiên cứu, sưu tầm</a>                              </li>
+                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/cong-tac-quan-ly-hien-vat-24pg.html">Công tác quản lý hiện vật</a>                              </li>
+                                                                                                                                                                        <li><a href="http://baotanglichsu.vn/cong-tac-bao-quan-25pg.html">Công tác bảo quản</a>                              </li>
+                                                                                                                                                                        <li><a href="http://baotanglichsu.vn/cong-tac-giao-duc-cong-chung-26pg.html">Công tác giáo dục, công chúng</a>                              </li>
+                                                                                                                <li><a href="http://baotanglichsu.vn/cong-tac-truyen-thong-28pg.html">Công tác truyền thông</a>                              </li>
+                                                                                    <li><a href="http://baotanglichsu.vn/cong-tac-tu-lieu-thu-vien-31pg.html">Công tác Tư liệu, thư viện</a>                              </li>
+                                                                                    <li><a href="http://baotanglichsu.vn/cong-tac-hop-tac-quoc-te-29pg.html">Công tác hợp tác quốc tế</a>                              </li>
+                                                                                    <li><a href="http://baotanglichsu.vn/cong-tac-ky-thuat-cong-nghe-30pg.html">Công tác kỹ thuật, công nghệ</a>                              </li>
+                                                                                    <li><a href="http://baotanglichsu.vn/cong-tac-an-ninh-bao-ve-27pg.html">Công tác an ninh bảo vệ</a>                              </li>
+                                          </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                                                                                                                                                                                <li>
+               <a  href="#" class="first-a" >Tin tức</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                    <li><a href="http://baotanglichsu.vn/hoat-dong-bao-tangcn.html" class="first-b">Hoạt động bảo tàng</a>
+                            <ul class="sub-menu1">
+                                                                                                  <li><a href="http://baotanglichsu.vn/clb-em-yeu-lich-sucn.html">CLB Em yêu lịch sử</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/tin-trong-nuoccn.html" class="first-b">Tin trong nước</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/tin-nuoc-ngoaicn.html" class="first-b">Tin nước ngoài</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                                                                                                                              <li>
+               <a  href="#" class="first-a" >Trưng bày</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                    <li><a href="http://baotanglichsu.vn/trung-bay-thuong-xuyenpj.html" class="first-b">Trưng bày thường xuyên</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/trung-bay-chuyen-depj.html" class="first-b">Trưng bày chuyên đề</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/tham-quan-3dpj.html" class="first-b">Tham quan  3D</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                                                   <li>
+               <a  href="#" class="first-a" >Nghiên cứu</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="http://baotanglichsu.vn/kien-thuc-lich-su-van-hoacr.html" class="first-b">Kiến thức Lịch sử - Văn hóa</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/theo-dong-lich-sucr.html" class="first-b">Theo dòng lịch sử</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/nhan-vat-lich-sucr.html" class="first-b">Nhân vật lịch sử</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/thong-tin-khoa-hoccr.html" class="first-b">Thông tin khoa học</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="#" class="first-b">Khảo cổ học</a>
+                            <ul class="sub-menu1">
+                                                                                                                                                                                                                                                                                                                                                              <li><a href="http://baotanglichsu.vn/trong-nuoccr.html">Khảo cổ học Việt nam</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/nuoc-ngoaicr.html">Khảo cổ học Nước ngoài</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/chuyen-khaocr.html" class="first-b">Chuyên khảo</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="#" class="first-b">Ấn phẩm</a>
+                            <ul class="sub-menu1">
+                                                                                                                                                                                                                                                                                                                                                                                          <li><a href="http://baotanglichsu.vn/an-phamcr.html">Ấn phẩm</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/thong-bao-khoa-hoc.html">Thông báo khoa học</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                          <li>
+               <a  href="#" class="first-a" >Dự án BTLSQG</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="http://baotanglichsu.vn/du-an-dau-tu-xay-dung-bao-tang-lich-su-quoc-gia-construction-investment-project-national-museum-history-8pg.html" class="first-b">Thông tin chung</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/tien-do-va-lo-trinh-thuc-hien-du-an-bao-tang-lich-su-quoc-gia-p1-9pg.html" class="first-b">Tiến độ dự án</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/du-an-btlsqgcn.html" class="first-b">Dự án  khác</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                        <li>
+               <a  href="#" class="first-a" >Thông tin hữu ích</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="http://baotanglichsu.vn/den-voi-bao-tang-19pg.html" class="first-b">Đến với Bảo tàng</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/gio-mo-cua-10pg.html" class="first-b">Giờ mở cửa</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/ve-va-le-phi-11pg.html" class="first-b">Vé và lệ phí</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/tham-quan-20pg.html" class="first-b">Tham quan</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/noi-quy-tham-quan-bao-tang-12pg.html" class="first-b">Nội quy</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                        <li>
+               <a  href="#" class="first-a" >Hỗ trợ</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="http://baotanglichsu.vn/clb-em-yeu-lich-su-13pg.html" class="first-b">CLB Em yêu Lịch sử</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/clb-tinh-nguyen-vien-14pg.html" class="first-b">CLB Tình nguyện viên</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/clb-nhung-nguoi-ban-bao-tang-15pg.html" class="first-b">CLB Những người bạn BT</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                            <li><a href="" class="first-b">Tài trợ</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/dich-vu-16pg.html" class="first-b">Dịch vụ</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="https://www.facebook.com/btlsqg/?fref=ts" class="first-b">Museum shop</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="http://baotanglichsu.vn/tien-ich-18pg.html" class="first-b">Tiện ích</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                         
+        </ul>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+<div class="container-fluid mobile-menu">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="logo">
+           <a href="http://baotanglichsu.vn/"><img src="http://baotanglichsu.vn/asset/upload/logo-new1.png" alt="logo"></a>
+        </div>
+        <div class="text-logo">
+          <p>Bảo tàng lịch sử quốc gia</p>
+        </div>
+        <div class="bar-menu">
+          <i class="fa fa-bars" aria-hidden="true"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+			
+			
+			
+<div class="head-space container-fluid"></div>
+    <div class="container-fluid list-trung video">
+        <div class="container">
+           <div class="row">
+			  <div class="error-msg">Error 404</div>
+<h2 class="medium-caption">Page Not Found!</h2>
+<h4>Sorry! We could not found the page you are looking for! Please search below...</h4>
+			  
+			  <div class="col-md-offset-1 col-md-10">
+				<p class="text-center"><a class="btn btn-default btn-lg" href="http://baotanglichsu.vn/">Trang chủ</a></p>
+			  </div>
+			</div>
+			<!-- End .Error 404 --> 
+		</div>
+	</div>
+</div>
+
+
+			
+			<div class="container-fluid footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="content-footer">
+            
+            <h4>Bảo tàng lịch sử quốc gia</h4>
+            <ul>
+                
+                
+                <li><a href="http://baotanglichsu.vn/">Trang chủ</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/loi-gioi-thieu-4pg.html">Giới thiệu</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/tintuc.html">Tin tức</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/trungbay.html">Trưng bày</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/nghiencuu.html">Nghiên cứu</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/du-an-btlsqgcn.html">Dự án BTLSQG</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/dich-vu-16pg.html">Hỗ trợ</a></li>
+                </li>
+                
+                
+            </ul>
+            
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="content-footer">
+            
+            <h4>Dịch vụ bảo tàng</h4>
+            <ul>
+                
+                
+                <li><a href="http://baotanglichsu.vn/trung-bay-chuyen-depj.html">Trưng bày chuyên đề</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/11dv.html">Thư viện video</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/gallery.html">Thư viện ảnh</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/dich-vu-16pg.html">Dịch vụ</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/clb-em-yeu-lich-sucn.html">Câu lạc bộ Em yêu lịch sử</a></li>
+                </li>
+                
+                
+                
+                <li><a href="http://baotanglichsu.vn/an-phamcr.html">Ấn phẩm</a></li>
+                </li>
+                
+                
+                
+                <li><a href="https://www.facebook.com/btlsqg/?fref=ts">Museum Shop</a></li>
+                </li>
+                
+                
+            </ul>
+            
+          </div>
+        </div>
+        <div class="col-md-3">
+           
+        </div>
+        <div class="col-md-3 right-bar">
+           <div class="content-footer">
+            <h4>Hòm thư góp ý</h4>
+            <form method="post" action="http://baotanglichsu.vn/sub" id="sub-form">
+              <input name="_token" type="hidden" value="bdxXU9Aqi7VRfxi8bv2Z2TcyLt4NaPCMFR4DmfP4">
+              <input type="text" name="email" placeholder="Email"/>
+              <div id="messages_sub"></div>
+              <a href="javascript:void(0)" onclick="submitForm('sub-form')">Gửi</a>
+            </form>
+            <h4>Theo dõi chúng tôi</h4>
+            <div class="social">
+              <ul>  
+                <li><a href="https://www.facebook.com/btlsqg/?fref=ts"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                 <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+               
+                <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                <li><a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a></li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid register">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <div class="text-register">
+            <p>Cơ quan chủ quản: Bộ Văn h&oacute;a, Thể thao v&agrave; Du lịch</p>
+<p>Đơn vị quản l&yacute;: Bảo t&agrave;ng Lịch sử quốc gia - Giấy ph&eacute;p số: 164/GP-TTĐT cấp ng&agrave;y: 31/10/2012</p>
+<p>Chịu tr&aacute;ch nhiệm: TS. Nguyễn Văn Cường - Gi&aacute;m đốc Bảo t&agrave;ng Lịch sử quốc gia</p>
+<p>Địa chỉ:&nbsp;Số 1, Tr&agrave;ng Tiền, Ho&agrave;n Kiếm, H&agrave; Nội</p>
+<p>Số 216, Trần Quang Khải, Ho&agrave;n Kiếm, H&agrave; Nội</p>
+<p>Email: banbientap@baotanglichsu.vn - Tel/Fax: 84.4.38252853</p>
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+			
+
+		</div>
+
+
+    <script src="http://baotanglichsu.vn/asset/frontend/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="http://baotanglichsu.vn/asset/frontend/js/jquery-ui.min.js"></script>
+
+    <script src="http://baotanglichsu.vn/asset/frontend/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://baotanglichsu.vn/asset/frontend/js/owl.carousel.js"></script>
+    <script type="text/javascript" src="http://baotanglichsu.vn/asset/frontend/js/telex.js"></script>
+    <script type="text/javascript" src="http://baotanglichsu.vn/asset/frontend/js/pubweb.js"></script>
+
+
+
+    </body>
+
+</html>
+
+	

@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+   <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+B?o tàng l?ch s? Qu?c gia
+</title>
+
+    <meta name="description" content="
+Là website chính th?c c?a b?o tàng l?ch s? qu?c gia
+"/>
+
+	<meta name="keywords" content="
+b?o tàng, l?ch s?, b?o tàng l?ch s?
+"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+		
+    <link rel="stylesheet" type="text/css" href="/asset/frontend/css/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="/asset/frontend/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="/asset/frontend/css/owl.carousel.css">
+    <link href="/asset/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/asset/frontend/css/animate.css">
+    <link href="/asset/frontend/css/pubweb.css" rel="stylesheet">
+
+		
+
+		<script src="/asset/frontend/js/jquery-1.11.3.min.js"></script>
+
+		
+
+		<link rel="shortcut icon" type="image/x-icon" href="favico.png">
+
+    </head>
+
+    <body class="push-menu" oncontextmenu="return false;">
+
+    	
+
+    	<div class="notification">B?n chua ch?n câu tr? l?i</div>
+
+    	<div class="notification1">Bi?u quy?t thành công</div>
+
+    	<div class="notification2">Bi?u quy?t th?t b?i</div>
+
+			<div class="menu-fix">
+	<div class="container-fluid time-header">
+		<div class="container">
+			<div class="row ">
+    <div class="col-md-6 col-xs-6">
+      <div class="time-day">
+
+        <p>Th? b?y, 20/10/2018</p>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="flag">
+        <ul>
+                                                  <li><a onclick="change_lang('/home/cookie/2')"><img src="/asset/frontend/img/en.png" alt="img"/></a></li>
+                                                            <li><a onclick="change_lang('/home/cookie/3')"><img src="/asset/frontend/img/fr.png" alt="img"/></a></li>
+                                                                    </ul>
+      </div>
+    </div>
+  </div>
+		</div>
+	</div>
+  <div class="container-fluid menu-head">
+  <div class="container ">
+  
+  <div class="row ">
+    <div class="col-md-6">
+      <div class="logo-desk">
+        <div class="img-logo">
+          <a href="/"><img src="/asset/upload/logo-new1.png" alt="logo"></a>
+        </div>
+        <div class="text-logo">
+          <h2>b?o t&agrave;ng l?ch s? qu?c gia</h2>
+<h2>vietnam national museum of history</h2>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="search">
+        <form method="post" action="/search" id="search-form">
+          <input name="_token" type="hidden" value="CA0EdDnjJTXMy93x3udOXMnuLcRvp7oVGqtFkCt0">
+          <input type="text" name="keyword" placeholder="T? khóa">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+</div>
+</div>
+<div class="container-fluid menu-third">
+  <div class="container">
+    <div class="row">
+    <div class="col-md-12">
+      <div class="menu-content">
+        <ul>
+                                                                        <li>
+               <a  href="/" >Trang ch?</a>
+                           </li>    
+                                                                                                                                                                                                                                                                                                                                                                         <li>
+               <a  href="#" class="first-a" >Gi?i thi?u</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                    <li><a href="/loi-gioi-thieu-4pg.html" class="first-b">L?i gi?i thi?u</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/hinh-thanh-va-phat-trien-3pg.html" class="first-b">Hình thành phát tri?n</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/co-cau-to-chuc-2pg.html" class="first-b">B? máy t? ch?c</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/so-do-to-chuc-5pg.html" class="first-b">So d? t? ch?c</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="/hoat-dong-chuyen-mon-7pg.html" class="first-b">Ho?t d?ng chuyên môn, nghi?p v?</a>
+                            <ul class="sub-menu1">
+                                                                                                                                                          <li><a href="">Công tác trung bày</a>                               <ul class="sub-menu2">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <li><a href="/trung-bay-thuong-xuyen-33pg.html">Trung bày thu?ng xuyên</a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                       <li><a href="/trung-bay-chuyen-de-32pg.html">Trung bày chuyên d?</a></li>                                                                                                                                                                                                                                                                                                                                                                                                 <li><a href="/trung-bay-ngoai-troi-34pg.html">Trung bày ngoài tr?i</a></li>                                                                                                                                                                                                                                                                                        <li><a href="/trung-bay-luu-dong-35pg.html">Trung bày luu d?ng</a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </ul>                             </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/cong-tac-nghien-cuu-khoa-hoc-va-xuat-ban-21pg.html">Công tác nghiên c?u khoa h?c và xu?t b?n</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                <li><a href="/cong-tac-dao-tao-22pg.html">Công tác dào t?o</a>                              </li>
+                                                                                                                                                                                                                                                            <li><a href="/cong-tac-nghien-cuu-suu-tam-23pg.html">Công tác nghiên c?u, suu t?m</a>                              </li>
+                                                                                                                                                                                                                                                            <li><a href="/cong-tac-quan-ly-hien-vat-24pg.html">Công tác qu?n lý hi?n v?t</a>                              </li>
+                                                                                                                                                                        <li><a href="/cong-tac-bao-quan-25pg.html">Công tác b?o qu?n</a>                              </li>
+                                                                                                                                                                        <li><a href="/cong-tac-giao-duc-cong-chung-26pg.html">Công tác giáo d?c, công chúng</a>                              </li>
+                                                                                                                <li><a href="/cong-tac-truyen-thong-28pg.html">Công tác truy?n thông</a>                              </li>
+                                                                                    <li><a href="/cong-tac-tu-lieu-thu-vien-31pg.html">Công tác Tu li?u, thu vi?n</a>                              </li>
+                                                                                    <li><a href="/cong-tac-hop-tac-quoc-te-29pg.html">Công tác h?p tác qu?c t?</a>                              </li>
+                                                                                    <li><a href="/cong-tac-ky-thuat-cong-nghe-30pg.html">Công tác k? thu?t, công ngh?</a>                              </li>
+                                                                                    <li><a href="/cong-tac-an-ninh-bao-ve-27pg.html">Công tác an ninh b?o v?</a>                              </li>
+                                          </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                                                                                                                                                                                <li>
+               <a  href="#" class="first-a" >Tin t?c</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                    <li><a href="/hoat-dong-bao-tangcn.html" class="first-b">Ho?t d?ng b?o tàng</a>
+                            <ul class="sub-menu1">
+                                                                                                  <li><a href="/clb-em-yeu-lich-sucn.html">CLB Em yêu l?ch s?</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/tin-trong-nuoccn.html" class="first-b">Tin trong nu?c</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/tin-nuoc-ngoaicn.html" class="first-b">Tin nu?c ngoài</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                                                                                                                              <li>
+               <a  href="#" class="first-a" >Trung bày</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/trung-bay-thuong-xuyenpj.html" class="first-b">Trung bày thu?ng xuyên</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/trung-bay-chuyen-depj.html" class="first-b">Trung bày chuyên d?</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/tham-quan-3dpj.html" class="first-b">Tham quan  3D</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                                                   <li>
+               <a  href="#" class="first-a" >Nghiên c?u</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="/kien-thuc-lich-su-van-hoacr.html" class="first-b">Ki?n th?c L?ch s? - Van hóa</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/theo-dong-lich-sucr.html" class="first-b">Theo dòng l?ch s?</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/nhan-vat-lich-sucr.html" class="first-b">Nhân v?t l?ch s?</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/thong-tin-khoa-hoccr.html" class="first-b">Thông tin khoa h?c</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="#" class="first-b">Kh?o c? h?c</a>
+                            <ul class="sub-menu1">
+                                                                                                                                                                                                                                                                                                                                                              <li><a href="/trong-nuoccr.html">Kh?o c? h?c Vi?t nam</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/nuoc-ngoaicr.html">Kh?o c? h?c Nu?c ngoài</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                            <li><a href="/chuyen-khaocr.html" class="first-b">Chuyên kh?o</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="#" class="first-b">?n ph?m</a>
+                            <ul class="sub-menu1">
+                                                                                                                                                                                                                                                                                                                                                                                          <li><a href="/an-phamcr.html">?n ph?m</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/thong-bao-khoa-hoc.html">Thông báo khoa h?c</a>                              </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </ul>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                                          <li>
+               <a  href="#" class="first-a" >D? án BTLSQG</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="/du-an-dau-tu-xay-dung-bao-tang-lich-su-quoc-gia-construction-investment-project-national-museum-history-8pg.html" class="first-b">Thông tin chung</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/tien-do-va-lo-trinh-thuc-hien-du-an-bao-tang-lich-su-quoc-gia-p1-9pg.html" class="first-b">Ti?n d? d? án</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/du-an-btlsqgcn.html" class="first-b">D? án  khác</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                        <li>
+               <a  href="#" class="first-a" >Thông tin h?u ích</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="/den-voi-bao-tang-19pg.html" class="first-b">Ð?n v?i B?o tàng</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/gio-mo-cua-10pg.html" class="first-b">Gi? m? c?a</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/ve-va-le-phi-11pg.html" class="first-b">Vé và l? phí</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                            <li><a href="/tham-quan-20pg.html" class="first-b">Tham quan</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/noi-quy-tham-quan-bao-tang-12pg.html" class="first-b">N?i quy</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                        <li>
+               <a  href="#" class="first-a" >H? tr?</a>
+                              <div class="menu-sub">
+                    <ul>
+                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="/clb-em-yeu-lich-su-13pg.html" class="first-b">CLB Em yêu L?ch s?</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/clb-tinh-nguyen-vien-14pg.html" class="first-b">CLB Tình nguy?n viên</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/clb-nhung-nguoi-ban-bao-tang-15pg.html" class="first-b">CLB Nh?ng ngu?i b?n BT</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                            <li><a href="" class="first-b">Tài tr?</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/dich-vu-16pg.html" class="first-b">D?ch v?</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="https://www.facebook.com/btlsqg/?fref=ts" class="first-b">Museum shop</a>
+                          </li>
+                                                                                                                                                                                                                                                            <li><a href="/tien-ich-18pg.html" class="first-b">Ti?n ích</a>
+                          </li>
+                                                                                                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                            </li>    
+                                                                                                                                                                         
+        </ul>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+<div class="container-fluid mobile-menu">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="logo">
+           <a href="/"><img src="/asset/upload/logo-new1.png" alt="logo"></a>
+        </div>
+        <div class="text-logo">
+          <p>B?o tàng l?ch s? qu?c gia</p>
+        </div>
+        <div class="bar-menu">
+          <i class="fa fa-bars" aria-hidden="true"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+			
+			
+			
+<div class="head-space container-fluid"></div>
+    <div class="container-fluid list-trung video">
+        <div class="container">
+           <div class="row">
+			  <div class="error-msg">Error 404</div>
+<h2 class="medium-caption">Page Not Found!</h2>
+<h4>Sorry! We could not found the page you are looking for! Please search below...</h4>
+			  
+			  <div class="col-md-offset-1 col-md-10">
+				<p class="text-center"><a class="btn btn-default btn-lg" href="/">Trang ch?</a></p>
+			  </div>
+			</div>
+			<!-- End .Error 404 --> 
+		</div>
+	</div>
+</div>
+
+
+			
+			<div class="container-fluid footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="content-footer">
+            
+            <h4>B?o tàng l?ch s? qu?c gia</h4>
+            <ul>
+                
+                
+                <li><a href="/">Trang ch?</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/loi-gioi-thieu-4pg.html">Gi?i thi?u</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/tintuc.html">Tin t?c</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/trungbay.html">Trung bày</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/nghiencuu.html">Nghiên c?u</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/du-an-btlsqgcn.html">D? án BTLSQG</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/dich-vu-16pg.html">H? tr?</a></li>
+                </li>
+                
+                
+            </ul>
+            
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="content-footer">
+            
+            <h4>D?ch v? b?o tàng</h4>
+            <ul>
+                
+                
+                <li><a href="/trung-bay-chuyen-depj.html">Trung bày chuyên d?</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/11dv.html">Thu vi?n video</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/gallery.html">Thu vi?n ?nh</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/dich-vu-16pg.html">D?ch v?</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/clb-em-yeu-lich-sucn.html">Câu l?c b? Em yêu l?ch s?</a></li>
+                </li>
+                
+                
+                
+                <li><a href="/an-phamcr.html">?n ph?m</a></li>
+                </li>
+                
+                
+                
+                <li><a href="https://www.facebook.com/btlsqg/?fref=ts">Museum Shop</a></li>
+                </li>
+                
+                
+            </ul>
+            
+          </div>
+        </div>
+        <div class="col-md-3">
+           
+        </div>
+        <div class="col-md-3 right-bar">
+           <div class="content-footer">
+            <h4>Hòm thu góp ý</h4>
+            <form method="post" action="/sub" id="sub-form">
+              <input name="_token" type="hidden" value="CA0EdDnjJTXMy93x3udOXMnuLcRvp7oVGqtFkCt0">
+              <input type="text" name="email" placeholder="Email"/>
+              <div id="messages_sub"></div>
+              <a href="javascript:void(0)" onclick="submitForm('sub-form')">G?i</a>
+            </form>
+            <h4>Theo dõi chúng tôi</h4>
+            <div class="social">
+              <ul>  
+                <li><a href="https://www.facebook.com/btlsqg/?fref=ts"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                 <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+               
+                <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                <li><a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a></li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid register">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <div class="text-register">
+            <p>Co quan ch? qu?n: B? Van h&oacute;a, Th? thao v&agrave; Du l?ch</p>
+<p>Ðon v? qu?n l&yacute;: B?o t&agrave;ng L?ch s? qu?c gia - Gi?y ph&eacute;p s?: 164/GP-TTÐT c?p ng&agrave;y: 31/10/2012</p>
+<p>Ch?u tr&aacute;ch nhi?m: TS. Nguy?n Van Cu?ng - Gi&aacute;m d?c B?o t&agrave;ng L?ch s? qu?c gia</p>
+<p>Ð?a ch?:&nbsp;S? 1, Tr&agrave;ng Ti?n, Ho&agrave;n Ki?m, H&agrave; N?i</p>
+<p>S? 216, Tr?n Quang Kh?i, Ho&agrave;n Ki?m, H&agrave; N?i</p>
+<p>Email: banbientap@baotanglichsu.vn - Tel/Fax: 84.4.38252853</p>
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+			
+
+		</div>
+
+
+    <script src="/asset/frontend/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="/asset/frontend/js/jquery-ui.min.js"></script>
+
+    <script src="/asset/frontend/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/asset/frontend/js/owl.carousel.js"></script>
+    <script type="text/javascript" src="/asset/frontend/js/telex.js"></script>
+    <script type="text/javascript" src="/asset/frontend/js/pubweb.js"></script>
+
+
+
+    </body>
+
+</html>
+
+	
